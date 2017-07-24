@@ -1,0 +1,8 @@
+SVM Results
+ Time: 03-May-2017 13:26:37
+Condition 1	 Condition 2	 Repetition	 Classification Accuracy	
+Baseline1	 Sniffing1	 1	 71.6667 *** 	
+Baseline1	 Sniffing1	 2	 73.3333 *** 	
+Baseline1	 Sniffing1	 3	 73.3333 *** 	
+Baseline1	 Sniffing1	 4	 71.6667 *** 	
+Baseline1	 Sniffing1	 5	 71.6667 *** 	

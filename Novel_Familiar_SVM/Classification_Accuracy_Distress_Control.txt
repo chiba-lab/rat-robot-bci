@@ -1,0 +1,8 @@
+SVM Results
+ Time: 04-May-2017 17:21:22
+Condition 1	 Condition 2	 Repetition	 Classification Accuracy	
+Distress1	 Control1	 1	 43.3333	
+Distress1	 Control1	 2	 45.5556	
+Distress1	 Control1	 3	 42.2222	
+Distress1	 Control1	 4	 42.2222	
+Distress1	 Control1	 5	 42.2222	

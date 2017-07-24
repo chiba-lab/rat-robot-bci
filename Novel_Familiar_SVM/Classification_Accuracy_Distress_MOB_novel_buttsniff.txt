@@ -1,0 +1,8 @@
+SVM Results
+ Time: 21-Mar-2016 12:31:34
+Condition 1	 Condition 2	 Repetition	 Classification Accuracy	
+ButtSniff1	 Novel1	 1	 45.4545	
+ButtSniff1	 Novel1	 2	 45.4545	
+ButtSniff1	 Novel1	 3	 40.9091	
+ButtSniff1	 Novel1	 4	 50.0000	
+ButtSniff1	 Novel1	 5	 50.0000	

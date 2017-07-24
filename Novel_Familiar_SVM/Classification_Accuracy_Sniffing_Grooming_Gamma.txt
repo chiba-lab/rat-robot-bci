@@ -1,0 +1,8 @@
+SVM Results
+ Time: 03-May-2017 13:19:30
+Condition 1	 Condition 2	 Repetition	 Classification Accuracy	
+Grooming1	 Sniffing1	 1	 68.3333	
+Grooming1	 Sniffing1	 2	 68.3333	
+Grooming1	 Sniffing1	 3	 66.6667	
+Grooming1	 Sniffing1	 4	 68.3333	
+Grooming1	 Sniffing1	 5	 68.3333	
